@@ -4,6 +4,14 @@
 
 I'm passionate about data, intelligent systems, and creating real-world impact through technology. Currently building my skills in machine learning and data analysis through hands-on projects.
 
+## 🏆 Kaggle Competitions
+
+### Titanic: Machine Learning from Disaster
+- *Score*: 74.4% accuracy on leaderboard
+- *Approach*: Random Forest with comprehensive feature engineering
+- *Features*: Title extraction, family size, age/fare optimization
+- [View Notebook on Kaggle](https://www.kaggle.com/code/peterapeh/titanic-survival-prediction-random-forest)
+
 ### 🔭 Currently Working On
 - Building my machine learning portfolio on Kaggle
 - Learning Python, Pandas, and Scikit-learn
