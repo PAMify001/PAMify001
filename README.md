@@ -17,7 +17,7 @@ I'm passionate about data, intelligent systems, and creating real-world impact t
 
 ### 📫 Let's Connect
 - *Kaggle Portfolio:* [kaggle.com/peterapeh](https://kaggle.com/peterapeh)
-- *LinkedIn:* [https://www.linkedin.com/in/peter-apeh-825483322]
+- *LinkedIn:* https://www.linkedin.com/in/peter-apeh-825483322
 
 ---
 
